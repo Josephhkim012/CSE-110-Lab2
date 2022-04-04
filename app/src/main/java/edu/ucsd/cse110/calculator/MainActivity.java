@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         // There is a bug in this function! One of your exercises is to find it!
 
         // Hello world this is a new comment!
+        //comment
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
